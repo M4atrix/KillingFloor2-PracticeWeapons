@@ -1,5 +1,5 @@
 # KillingFloor2-PracticeWeapons
-PracticeWeapons Mutator from Killing Floor 2.
+```PracticeWeapons Mutator from Killing Floor 2.
 
 Precision weapons with unlimited ammo and no viewmodels.
 
@@ -8,4 +8,4 @@ Precision weapons with unlimited ammo and no viewmodels.
 TIM Configs
 CustomItems=PracticeWeapons.KFWeapDef_PWM14EBR
 CustomItems=PracticeWeapons.KFWeapDef_PW9mm
-CustomItems=PracticeWeapons.KFWeapDef_PWMedicRifle
+CustomItems=PracticeWeapons.KFWeapDef_PWMedicRifle```
