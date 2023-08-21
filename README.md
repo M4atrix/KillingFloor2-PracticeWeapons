@@ -1,5 +1,5 @@
 # KillingFloor2-PracticeWeapons
-``PracticeWeapons Mutator from Killing Floor 2.
+```PracticeWeapons Mutator from Killing Floor 2.
 
 Precision weapons with unlimited ammo and no viewmodels.
 
